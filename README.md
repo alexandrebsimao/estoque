@@ -5,3 +5,6 @@ O sistema tem como controle simples de estoque, registrando os produtos, suas ca
 O sistema também registra o histórico de movimentação, permitindo visualizar as quantidade de produtos que entrou ou saiu e a data da movimentação.
 
 Sistema de controle de estoque foi desenvolvido utilizando a Framework PHP Codeigniter, Twitter Bootstrap 3 e jQuery.
+
+Alexandre Augusto Berns Simão
+<alexandre.b.simao@gmail.com>
