@@ -6,5 +6,7 @@ O sistema também registra o histórico de movimentação, permitindo visualizar
 
 Sistema de controle de estoque foi desenvolvido utilizando a Framework PHP Codeigniter, Twitter Bootstrap 3 e jQuery.
 
+Obs.: Sistema não comercial
+
 Alexandre Augusto Berns Simão
 <alexandre.b.simao@gmail.com>
